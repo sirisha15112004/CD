@@ -1,0 +1,6 @@
+name="sirisha"
+father_name="venkatesh"
+mother_name="chandrakala"
+print(name)
+print(father_name)
+print(mother_name)
